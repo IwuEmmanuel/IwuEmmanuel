@@ -18,6 +18,24 @@ Hi, I'm Emmanuel an aspiring fullstack developer, inclined towards frontend deve
 
 <hr>
 
+📺 Most Useful Youtube Channels on my Journey
+
+<!--YOUTUBE-VIDEOS-LIST:START-->
+
+<!--YOUTUBE-VIDEOS-LIST:END-->
+
+<hr>
+
+📔📘 My recommeded Tech Blogs 
+
+<!--BLOG-POST-LIST:START-->
+
+<!--BLOG-POST-LIST:END-->
+
+<hr>
+
+
+<hr>
 
 
 <!--
