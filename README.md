@@ -2,7 +2,7 @@
 
 <hr>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/iwu__emmanuel?style=social)  ![GitHub followers](https://img.shields.io/github/followers/IwuEmmanuel?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iwu__emmanuel?style=social)](https://twitter.com/iwu__emmanuel)  [![GitHub followers](https://img.shields.io/github/followers/IwuEmmanuel?style=social)](https://github.com/IwuEmmanuel/IwuEmmanuel/)
 
 Hi, I'm Emmanuel an aspiring fullstack developer, inclined towards frontend development, passionate about creating and developing web interfaces. Proven ability to multitask, learn quickly, and a strong dedication to accuracy and professionalism. Able to clearly understand problems and find positive solutions through the use of critical thinking, problem-solving, and effective communication.
 
@@ -19,9 +19,11 @@ Hi, I'm Emmanuel an aspiring fullstack developer, inclined towards frontend deve
 <hr>
 
 📺 Most Useful Youtube Channels on my Journey
-
+ 
 <!--YOUTUBE-VIDEOS-LIST:START-->
-
+<li><a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">FreeCodeCamp<a/><li/>
+<a href='https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A'>CS Dojo<a/><li/>
+<a href='https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A'>Javascript Mastery<a/>
 <!--YOUTUBE-VIDEOS-LIST:END-->
 
 <hr>
@@ -29,13 +31,17 @@ Hi, I'm Emmanuel an aspiring fullstack developer, inclined towards frontend deve
 📔📘 My recommeded Tech Blogs 
 
 <!--BLOG-POST-LIST:START-->
-
+<li><a href='https://www.freecodecamp.org/'>FreeCodeCamp Blog<a/>
 <!--BLOG-POST-LIST:END-->
 
 <hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwuEmmanuel)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwuEmmanuel)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!--
