@@ -1,4 +1,12 @@
-### Hi there 👋, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "30px">, my name is IWU EMMANUEL!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "30px">, my name is IWU EMMANUEL!
+
+...
+
+![Twitter Follow](https://img.shields.io/twitter/follow/iwu__emmanuel?style=social) 
+
+Hi, I'm Emmanuel an aspiring fullstack developer, inclined towards frontend development, passionate about creating and developing web interfaces. Proven ability to multitask, learn quickly, and a strong dedication to accuracy and professionalism. Able to clearly understand problems and find positive solutions through the use of critical thinking, problem-solving, and effective communication.
+
+...
 
 <!--
 **IwuEmmanuel/IwuEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
